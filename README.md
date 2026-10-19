@@ -1,3 +1,23 @@
+## Featured Projects | Proyectos destacados
+
+### [OpenSource-AutoDiag](https://github.com/Antozjr/OpenSource-AutoDiag)
+
+**English:** Home-made, open-source CAN bus diagnostic tool: **car → ESP32 + MCP2515 → USB → browser**, no apps and no cloud. PlatformIO firmware (passive sniffer and UDS/OBD2 diagnostics) plus a Web Serial interface with live data, fault codes and a car garage. Ready-to-build firmware zips in the [Releases](https://github.com/Antozjr/OpenSource-AutoDiag/releases).
+
+**Español:** Herramienta casera y de código abierto para diagnosticar el bus CAN de un coche: **coche → ESP32 + MCP2515 → USB → navegador**, sin apps ni nube. Firmware en PlatformIO (sniffer pasivo y diagnóstico UDS/OBD2) más una interfaz Web Serial con datos en vivo, códigos de avería y garaje de coches. Zips de firmware listos para compilar en [Releases](https://github.com/Antozjr/OpenSource-AutoDiag/releases).
+
+`ESP32` `MCP2515` `CAN` `UDS` `PlatformIO` `Web Serial`
+
+### [Super-5-RTOS](https://github.com/Antozjr/Super-5-RTOS)
+
+**English:** Distributed electronics for a 1989 Renault 5 GTL: FreeRTOS nodes (STM32F103, STM32F405, ESP32) talking over a 500 kbps CAN bus, with a combined BCM + Gateway PCB designed in KiCad. Reversible installation, fail-safe and watchdog. Development halted after the car caught fire, before the BCM was installed; firmware, protocol, documentation and PCB design are published as they were left.
+
+**Español:** Electrónica distribuida para un Renault 5 GTL de 1989: nodos FreeRTOS (STM32F103, STM32F405, ESP32) conectados por bus CAN a 500 kbps, con una PCB combinada BCM + Gateway diseñada en KiCad. Instalación reversible, fail-safe y watchdog. Desarrollo detenido tras el incendio del coche, antes de instalar el BCM; firmware, protocolo, documentación y diseño de la PCB se publican tal cual quedaron.
+
+`STM32` `ESP32` `FreeRTOS` `CAN` `KiCad` `PlatformIO`
+
+---
+
 ## About Me | Sobre mí
 
 ### English
